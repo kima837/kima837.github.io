@@ -1,23 +1,28 @@
-* {
-    color: orange;
-    text-align: center;
-    font-family: Arial;
-    font-size: 40px;
-}
-
 body {
-    background-color: rgb(23, 59, 128);
+    background-color: #2C3B4F;
 }
 
-p {
-    margin: 100px auto 50px auto;
+div {
+    color: #CCE5FF;
+    font-family: Arial;
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+span {
+    font-size: 40px;
 }
 
 button {
     display: block;
-    background-color: rgb(155, 173, 235);
+    color: #34445C;
+    background-color: #8EBEFF;
+    font-size: 40px;
+    font-family: Arial;
     border-radius: 22px;
     padding: 10px 50px 10px 50px;
     margin: auto;
 }
-
